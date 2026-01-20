@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anujkumar1407
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning javascript
-- I'm currently learnig Rect.js
+- I'm currently learning Rect.js
 
 
 <!---
