@@ -31,11 +31,15 @@ Welcome to my GitHub profile! I'm a passionate web developer interested in build
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Projects & Repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujkumar1407&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+- **Portfolio** - Personal portfolio webpage built with JavaScript and React
+- **Nova-Analytics** - Analytics dashboard project
+- **CodSoft** - Internship projects collection
+- **To-Do-List** - Task management application
+- **Travel** - Travel-themed web application
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkumar1407&theme=tokyonight&layout=compact&hide_border=true)
+**[View all repositories →](https://github.com/Anujkumar1407?tab=repositories)**
 
 ---
 
