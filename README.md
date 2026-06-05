@@ -31,19 +31,6 @@ Welcome to my GitHub profile! I'm a passionate web developer interested in build
 
 ---
 
-## 📊 GitHub Stats & Language Usage
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujkumar1407&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=1a1b26)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkumar1407&theme=tokyonight&layout=pie&hide_border=true&bg_color=1a1b26)
-
-### Language Breakdown
-- **JavaScript** - 50% 
-- **CSS** - 30%
-- **HTML** - 20%
-
----
-
 ## 🎯 Current Learning Path
 
 ```
