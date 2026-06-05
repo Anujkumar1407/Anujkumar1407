@@ -31,15 +31,16 @@ Welcome to my GitHub profile! I'm a passionate web developer interested in build
 
 ---
 
-## 📊 My Projects & Repositories
+## 📊 GitHub Stats & Language Usage
 
-- **Portfolio** - Personal portfolio webpage built with JavaScript and React
-- **Nova-Analytics** - Analytics dashboard project
-- **CodSoft** - Internship projects collection
-- **To-Do-List** - Task management application
-- **Travel** - Travel-themed web application
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujkumar1407&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=1a1b26)
 
-**[View all repositories →](https://github.com/Anujkumar1407?tab=repositories)**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkumar1407&theme=tokyonight&layout=pie&hide_border=true&bg_color=1a1b26)
+
+### Language Breakdown
+- **JavaScript** - 50% 
+- **CSS** - 30%
+- **HTML** - 20%
 
 ---
 
@@ -59,10 +60,33 @@ Full-Stack Development
 
 ---
 
+## 📊 My Projects & Repositories
+
+- **Portfolio** - Personal portfolio webpage built with JavaScript and React
+- **Nova-Analytics** - Analytics dashboard project
+- **CodSoft** - Internship projects collection
+- **To-Do-List** - Task management application
+- **Travel** - Travel-themed web application
+
+**[View all repositories →](https://github.com/Anujkumar1407?tab=repositories)**
+
+---
+
 ## 📫 Get in Touch
 
-- 📧 Feel free to reach out if you'd like to collaborate or just say hello!
-- 🔗 Check out my repositories to see what I'm working on
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujsehrawat14707@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-kumar-308a96274)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anujkumar1407)
+
+</div>
+
+- 📧 **Email:** anujsehrawat14707@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/anuj-kumar-308a96274](https://linkedin.com/in/anuj-kumar-308a96274)
+- 💻 **GitHub:** [github.com/Anujkumar1407](https://github.com/Anujkumar1407)
+
+Feel free to reach out if you'd like to collaborate or just say hello!
 
 ---
 
